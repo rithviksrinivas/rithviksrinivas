@@ -1,9 +1,9 @@
 # Hi, I'm Rithvik Srinivas! 👋
 
-### 🎓 Graduate Student at NC State | AI & Software Development
-I am currently pursuing my **M.S. in Computer Science** at **North Carolina State University**, focusing on Artificial Intelligence and Software Development. I hold a **B.S. in Computer Science** from the **University of North Carolina at Chapel Hill**.
-
-Currently, I am an **Automation and Data Analyst** at **NCDIT**, where I leverage ServiceNow to analyze ITSM data and build automated reporting workflows.
+### 🎓 Education & Focus
+* **M.S. in Computer Science** (AI & Software Development) | **North Carolina State University**
+* **B.S. in Computer Science** | **University of North Carolina at Chapel Hill**
+* **Current Role:** Automation and Data Analyst at **NCDIT**, focusing on ITSM data analysis and automated reporting workflows.
 
 ---
 
