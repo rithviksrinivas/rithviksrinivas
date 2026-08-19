@@ -1,7 +1,6 @@
 # Hi, I'm Rithvik Srinivas! 👋
 
 ### 🎓 Education & Focus
-* **M.S. in Computer Science** (AI & Software Development) | **North Carolina State University**
 * **B.S. in Computer Science** | **University of North Carolina at Chapel Hill**
 * **Current Role:** Automation and Data Analyst at **NCDIT**, focusing on ITSM data analysis and automated reporting workflows.
 
